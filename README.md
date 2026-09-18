@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There 
 
 <!--
 **ExoCatz/ExoCatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![cat](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycXAzOTFremprOTIycHJ1bTIzbmgyMTVuMTgwenJ0b2NzMHJ5MzU0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XaikVL6qbrJSJoQmCR/giphy.gif)
